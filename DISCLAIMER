@@ -1,0 +1,45 @@
+DISCLAIMER
+==========
+
+Safety and no reliance
+----------------------
+
+OKF-Industrial is provided for informational and reference purposes only.
+It is not designed, tested, or validated for use as the sole basis for
+safety-critical decisions. Users are solely responsible to independently
+verify all information before acting on it in a production environment.
+Use of OKF-Industrial is entirely at the user's own risk.
+
+No warranty and no liability
+----------------------------
+
+No representation or warranty is made regarding the accuracy,
+completeness, or fitness for any particular purpose of any knowledge
+file, example data, operating envelope, or threshold value included in or
+generated using OKF-Industrial. The maintainers and contributors accept
+no liability for any loss, damage, or injury arising from reliance on
+such content.
+
+Human engineering review is a condition of use
+----------------------------------------------
+
+OKF-Industrial is designed on the principle that no knowledge, human or
+machine, enters a project unreviewed. Users of OKF-Industrial must ensure
+that all knowledge files are reviewed and approved by a qualified
+engineer before deployment in any operational context. Use of
+OKF-Industrial content without such review is expressly outside the
+intended use of this project.
+
+Independence
+------------
+
+OKF-Industrial is an independent project, not affiliated with or endorsed
+by Google. It is based on the Open Knowledge Format (OKF) published by
+Google Cloud under the Apache License 2.0.
+
+Example content
+---------------
+
+All example content in this repository, including companies, plants,
+people, tags, documents, and values, is fictional and is provided for
+demonstration only. It contains no real operational data.

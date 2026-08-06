@@ -1,0 +1,20 @@
+OKF Industrial Profile
+Copyright 2026 Augury
+
+This work is an "industrial profile" of the Open Knowledge Format (OKF),
+an open specification published by Google Cloud
+(https://github.com/GoogleCloudPlatform/knowledge-catalog). It is
+distributed under the Apache License, Version 2.0 (see the LICENSE file).
+
+OKF-Industrial is an independent project, not affiliated with or endorsed
+by Google. It is based on the Open Knowledge Format (OKF) published by
+Google Cloud under the Apache License 2.0.
+
+"Google" and "Google Cloud" are trademarks of Google LLC, and "Open
+Knowledge Format" refers to the specification published by Google Cloud.
+All such names are used here descriptively, for identification only.
+
+See the DISCLAIMER file for the safety, warranty, and review notices.
+
+All example content in this repository (companies, plants, people, tags,
+and values) is fictional. It contains no real operational data.
